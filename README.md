@@ -13,3 +13,7 @@ In this study, we analyzed reflexive pronouns in Mandarin and Cantonese (n = 305
 ## References
 Wang, Y., & Pan, H. (2021). Chinese reflexives. Oxford Research Encyclopedia of Linguistics. \
 Wexler, K., & Chien, Y.-C. (1985). The Development of Lexical Anaphors and Pronouns. Child Language Development, 24(1), 138-49.
+
+## Acknowledgements
+We are deeply grateful to colleagues and collaborators: Yuqing Liang, Jingyao Liu, Jiaqi Nie, Ranee Cheng, Ashley Chan, Virginia Yip, Zhuang Wu. Research grants awarded to Ziyin Mai: “Input and experience in early trilingual development”, RGC/GRF, 2021-2024; “Input and caretaker proficiency in early bilingual development: mothers, helpers and toddlers ”, RGC/ECS, 2023-2025.}
+

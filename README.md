@@ -11,6 +11,9 @@ In this study, we analyzed reflexive pronouns in Mandarin and Cantonese (n = 305
 **Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. **[Poster]** Child Language Symposium 2024, Newcastle, UK.
 
 ## References
+Chien, Y.-C. and Wexler, K. (1990). Children’s knowledge of locality conditions in binding as evidence for the modularity of syntax and pragmatics. Language acquisition, 1(3):225–295.\
+Li, R. (2024). The Acquisition of Anaphora in Child Mandarin: Reflexive Binding and Argument Dropping. Taylor & Francis.\
+Mai, Z. (in prep). Early additive child multilin- gual corpus. dataset.\
 Wang, Y., & Pan, H. (2021). Chinese reflexives. Oxford Research Encyclopedia of Linguistics. \
 Wexler, K., & Chien, Y.-C. (1985). The Development of Lexical Anaphors and Pronouns. Child Language Development, 24(1), 138-49.
 

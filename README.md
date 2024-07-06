@@ -8,7 +8,7 @@ In this study, we analyzed reflexive pronouns in Mandarin and Cantonese (n = 305
 
 
 ## Citation 
-**Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. **[Presentation]** Child Language Symposium 2024, Newcastle, UK.
+**Chen, Y.**, Mai, Z., Hu, X., Shang, M., (2024, July). Reflexive pronouns in Chinese-learning monolingual, bilingual, and trilingual toddlers, and their parental input. **[Poster]** Child Language Symposium 2024, Newcastle, UK.
 
 ## References
 Wang, Y., & Pan, H. (2021). Chinese reflexives. Oxford Research Encyclopedia of Linguistics. \

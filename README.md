@@ -3,9 +3,9 @@
 in [Child Language Symposium 2024](https://blogs.ncl.ac.uk/cls2024/) (CLS 2024)
 
 
-[I would really appreciate your feedback on my project.](https://forms.gle/mgkc9EAHaM64qo2RA) Thank you!
-
 ## [Presentation Video Recording]()
+
+[I would really appreciate your feedback on my project.](https://forms.gle/mgkc9EAHaM64qo2RA) Thank you!
 
 ## Abstract
 Reflexive pronouns in Chinese have two forms: compound reflexives (e.g., ta-ziji ‘himself’ in Mandarin) governed by binding principles in ways similar to reflexives in English, and bare reflexives (e.g., ziji in Mandarin, zi6gei2 in Cantonese) functioning as local anaphors, generic pronouns or intensifiers (Wang & Pan, 2021) (examples in Figure 1). Previous studies found that English-speaking children use reflexive pronouns as a generic pronoun in addition to anaphoric use before age 5 (Wexler & Chien, 1985), and that Mandarin children adeptly produce ziji in simple reflexive contexts around age 2, indicating a fundamental grasp of its reflexive function at an early stage (Li, 2024). Existing literature has not investigated the aforementioned three fine-grained usages of bare reflexives in Chinese-learner children in naturalistic settings and examine their relations with relevant patterns in their Chinese input.
